@@ -1,4 +1,4 @@
-name: 'OpenShift Login'
+name: 'OpenShift Login Node v16'
 description: 'Log into an OpenShift cluster and set up a Kubernetes context'
 author: 'Red Hat'
 branding:
